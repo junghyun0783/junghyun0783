@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=flat&logo=Oracle&logoColor=#white"/></a>
 
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
@@ -23,9 +24,9 @@
 
 ### 🔎 Github status 🔎
 
-![dev-joonghyun overview](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/overview.svg)
+<!-- ![dev-joonghyun overview](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/overview.svg)
 ![dev-joonghyun languages](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/languages.svg)
-
+ -->
 
 <!--
 **junghyun0783/junghyun0783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,6 +26,7 @@
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=Portainer&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>

@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E2C8CC&height=300&section=header&text=JoonghyunKim&fontColor=373737&fontSize=90&fontAlign=62&fontAlignY=32&desc=To%20become%20a%20top%20twenty%20percent%20developer...&descSize=25&descAlign=67&descAlignY=50)
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>

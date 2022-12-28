@@ -20,6 +20,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 
+
+### 🔎 Github status 🔎
+
+![dev-joonghyun overview](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/overview.svg)
+![dev-joonghyun languages](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/languages.svg)
+
+
 <!--
 **junghyun0783/junghyun0783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

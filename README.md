@@ -23,8 +23,8 @@
 
 ### 🔎 Github status 🔎
 
-![dev-joonghyun overview](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/overview.svg)
-![dev-joonghyun languages](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/languages.svg)
+![dev-joonghyun overview](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/overview.svg)
+![dev-joonghyun languages](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 <!--

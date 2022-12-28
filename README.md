@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E2C8CC&height=300&section=header&text=JoonghyunKim&fontColor=373737&fontSize=90&fontAlign=62&fontAlignY=32&desc=To%20become%20a%20top%20twenty%20percent%20developer...&descSize=25&descAlign=67&descAlignY=50)
 https://blog.naver.com/rlawnd00000
 ### 👧 vvithnne 👧
-<a href="https://blog.naver.com/rlawnd00000/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a>
+<a href="https://blog.naver.com/rlawnd00000/"><img src="https://img.shields.io/badge/Blog-323232?style=flat&logo=TV Time&logoColor=white"/></a>
   
   
 ### 💻 Tech Stack 💻

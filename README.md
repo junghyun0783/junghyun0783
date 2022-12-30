@@ -2,8 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E2C8CC&height=300&section=header&text=JoonghyunKim&fontColor=373737&fontSize=90&fontAlign=62&fontAlignY=32&desc=To%20become%20a%20top%20twenty%20percent%20developer...&descSize=25&descAlign=67&descAlignY=50)
 
+  
 ### 👧 vvithnne 👧
 <a href="https://blog.naver.com/rlawnd00000/"><img src="https://img.shields.io/badge/Blog-323232?style=flat&logo=Storyblok&logoColor=white"/></a>
+  
   
   
 ### 💻 Tech Stack 💻
@@ -32,6 +34,7 @@
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+
 
 
 ### 🔎 Most Used Languages 🔎

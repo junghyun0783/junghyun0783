@@ -38,7 +38,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun0783&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun0783&langs_count=8)](https://github.com/junghyun0783/github-readme-stats)
+### 🔎 Most Used Languages 🔎
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun0783&layout=compact)](https://github.com/junghyun0783/github-readme-stats)
 
 
 <!--

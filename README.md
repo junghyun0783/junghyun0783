@@ -36,10 +36,10 @@
 
 ### 🔎 Github status 🔎
 
-<!-- ![dev-joonghyun overview](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/overview.svg)
-![dev-joonghyun languages](https://github.com/dev-junghyun0783/github-stats-transparent/blob/output/generated/languages.svg)
- -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun0783&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun0783&langs_count=8)](https://github.com/junghyun0783/github-readme-stats)
+
 
 <!--
 **junghyun0783/junghyun0783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

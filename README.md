@@ -34,10 +34,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 
 
-### 🔎 Github status 🔎
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun0783&show_icons=true&theme=radical)
-
 ### 🔎 Most Used Languages 🔎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun0783&layout=compact)](https://github.com/junghyun0783/github-readme-stats)

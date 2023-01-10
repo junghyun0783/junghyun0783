@@ -10,7 +10,7 @@
   
 ### 💻 Tech Stack 💻
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33f?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>
